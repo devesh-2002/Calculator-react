@@ -1,2 +1,2 @@
 # Calculator-react
-This project is of a Calculator, made using HTML, CSS and React.js. 
+This Project is of a Basic Calculator, made using HTML, CSS and React.js. 
