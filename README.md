@@ -1,4 +1,9 @@
 # Calculator-react
-This Project is of a Basic Calculator, made using HTML, CSS and React.js. 
+This Project is of a Basic Calculator. 
+## Tech Stacks
+1. HTML
+2. CSS 
+3. React.js
 
-Hosting Website : https://devesh-2002.github.io/Calculator-react/
+## Hosting Website
+https://devesh-2002.github.io/Calculator-react/
