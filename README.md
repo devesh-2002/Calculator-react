@@ -4,6 +4,9 @@ This Project is of a Basic Calculator.
 1. HTML
 2. CSS 
 3. React.js
-
+## How to Run the project
+1. Fork the project
+2. Clone your forked repo.
+3. Run the project on localhost:3000 
 ## Hosting Website
 https://devesh-2002.github.io/Calculator-react/
